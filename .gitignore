@@ -1,0 +1,22 @@
+# 编译产物
+*.o
+*.exe
+*.out
+*.obj
+*.dll
+*.lib
+*.so
+
+# 编辑器
+.vs/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 系统
+Thumbs.db
+.DS_Store
+
+# 构建目录
+build/
